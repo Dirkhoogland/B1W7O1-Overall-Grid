@@ -1,8 +1,14 @@
 body {
-	background-color:blue;
+	
+}
+.header{
+	background-image:;
 }
 
-
 .container{
+	display:grid;
+	grid-template-columns: auto  auto;
+	grid-template-rows: auto auto ;
+	grid-gap: 10px;
 
 }
