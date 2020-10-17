@@ -2,13 +2,19 @@ body {
 	
 }
 .header{
-	background-image:;
+	grid-row:1;
+	grid-column-start:2;
+	grid-column-end:5;
 }
 
 .container{
 	display:grid;
-	grid-template-columns: auto  auto;
-	grid-template-rows: auto auto ;
+	grid-template-columns: auto 200 400 200 200  auto;
+	grid-template-rows: auto 500 500 200 auto ;
 	grid-gap: 10px;
 
+}
+.logo{
+	grid-row:1;
+	grid-column:3;
 }
