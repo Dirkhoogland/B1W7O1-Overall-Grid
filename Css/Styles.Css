@@ -1,7 +1,8 @@
 
 body {
 	background-image: url("img/header_bg.png"), url("img/banner_bg.png"), url("img/footer_bg.png");
-	background-size:auto 1100px; 
+	background-size:1100px auto; 
+
 }
 
 
