@@ -4,6 +4,21 @@ body {
 	background-size:200px 700px 200px ; 
 
 }
+.container{
+	font-size:14;
+	line-height: 20;
+	font-style: font-family: 'Lato', sans-serif;
+}
+
+.title{
+	font-size: 26;
+	line-height:30;
+}
+
+.stitle{
+	font-size:20px;
+	line-height: 22px;
+}
 
 .grid{
 	display:grid;
